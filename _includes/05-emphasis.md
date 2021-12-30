@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### List of hobbies
+below is the _list_
+- coding
+- photography
+- **sailing**
